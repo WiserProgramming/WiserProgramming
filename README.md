@@ -1,16 +1,27 @@
-### Hi there 👋
+# **WiserProgramming**
+---
+```
+{
+  "firstName": "Jack",
+  "lastName": "Wiser",
+  "age": 23
+}
 
-<!--
-**WiserProgramming/WiserProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+---
+## My favorite Quote: 
+William Butler Yeats Quotes
+ > Happiness is neither virtue nor pleasure nor this thing nor that but simply growth, We are happy when we are growing.
+ 
+ > -William Butler Yeats
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
